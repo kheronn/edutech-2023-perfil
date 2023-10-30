@@ -10,6 +10,8 @@ body{
 }
 
 .cabecalho{
+    display: flex;
+
 
 }
 
@@ -23,4 +25,8 @@ body{
 
 .logo__texto{
 
+}
+
+.menu__container-links{
+    display: flex;
 }
