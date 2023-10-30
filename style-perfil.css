@@ -3,7 +3,7 @@
     --cor-secundario:#132238;
     --branco:#FFFFFF;
     --cinza: #E6E8EB;
-    --font-principal: 'Work Sansk';
+    --font-principal: 'Work Sans';
 }
 body{
     font-family: var(--font-principal);
