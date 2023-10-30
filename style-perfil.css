@@ -3,10 +3,11 @@
     --cor-secundario:#132238;
     --branco:#FFFFFF;
     --cinza: #E6E8EB;
-    --font-principal: 'Work Sans';
+    --fonte-principal: 'Work Sans';
 }
+
 body{
-    font-family: var(--font-principal);
+    font-family: var(--fonte-principal);
 }
 
 .cabecalho{
