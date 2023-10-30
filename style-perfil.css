@@ -1,33 +1,44 @@
-:root{
+:root {
     --cor-principal: #A53DFF;
-    --cor-secundario:#132238;
-    --branco:#FFFFFF;
+    --cor-secundario: #132238;
+    --branco: #FFFFFF;
     --cinza: #E6E8EB;
     --fonte-principal: 'Work Sans';
 }
 
-body{
+body {
     font-family: var(--fonte-principal);
 }
 
-.cabecalho{
+.cabecalho {
     display: flex;
-
-
 }
 
-.logo__container{
-
-}
-
-.logo__imagem{
-
-}
-
-.logo__texto{
-
-}
-
-.menu__container-links{
+.logo__container {
     display: flex;
+    gap: 2em;
+}
+
+.logo__imagem {
+    background-color: var(--cor-principal);
+    border-radius: 50%;
+    font-size: 18px;
+    font-family: 700;
+    text-align: center;
+}
+
+.logo__texto {
+    font-size: 28px;
+    font-weight: 500;
+    color: var(--cor-secundario);
+}
+
+.menu__container-links {
+    display: flex;
+}
+
+.link__item {
+    padding: 0 1.5rem;
+    text-decoration: none;
+    text-transform: uppercase;
 }
