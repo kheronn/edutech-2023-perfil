@@ -1,0 +1,26 @@
+:root{
+    --cor-principal: #A53DFF;
+    --cor-secundario:#132238;
+    --branco:#FFFFFF;
+    --cinza: #E6E8EB;
+    --font-principal: 'Work Sans';
+}
+body{
+    font-family: var(--font-principal);
+}
+
+.cabecalho{
+
+}
+
+.logo__container{
+
+}
+
+.logo__imagem{
+
+}
+
+.logo__texto{
+
+}
