@@ -12,6 +12,7 @@ body {
 
 .cabecalho {
     display: flex;
+    width: 100vw;
 }
 
 .logo__container {
